@@ -1,0 +1,247 @@
+generated: '2026-10-18'
+method: searched
+source: https://www.conviction.com/
+type: Portfolio
+name: Conviction Portfolio
+note: Firm lists these plus others still in stealth.
+summary:
+  portfolio_total: 22
+  in_network: 14
+  api_providers: 7
+  missing: 8
+  stubs_created: 0
+companies:
+- name: Baseten
+  url: https://www.baseten.co/
+  description: AI model inference platform
+  sector: AI Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: baseten
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cartesia
+  url: https://cartesia.ai/
+  description: Real-time voice and state-space model AI
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: cartesia-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cognition
+  url: https://www.cognition-labs.com/
+  description: AI software engineering agents
+  sector: Developer Tools
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: cognition
+  in_network: false
+  is_api_provider: false
+- name: Corridor
+  url: https://corridor.dev/
+  description: AI security for software development (Conviction launch)
+  sector: Security
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: corridor
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Distributed Spectrum
+  url: https://www.distributedspectrum.com/
+  description: Radio-frequency spectrum sensing
+  sector: Defense / RF
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: distributedspectrum
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Enigma
+  url: https://www.enigma.inc/
+  description: AI startup
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: enigma
+  in_network: false
+  is_api_provider: false
+- name: Harvey
+  url: https://www.harvey.ai/
+  description: Generative AI for legal and professional services
+  sector: Legal AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: harvey-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: HeyGen
+  url: https://www.heygen.com/
+  description: AI video generation
+  sector: Generative Media
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: heygen
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Instinct
+  url: https://instinct.co/
+  description: AI startup
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: instinct
+  in_network: false
+  is_api_provider: false
+- name: Keenable
+  url: https://keenable.ai/
+  description: AI startup
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: keenable
+  in_network: false
+  is_api_provider: false
+- name: Latent
+  url: https://www.latenthealth.com
+  description: AI for healthcare (Conviction launch)
+  sector: Healthcare AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: latent
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Listen Labs
+  url: https://www.listenlabs.ai/
+  description: AI customer research interviews
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: listen-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mistral
+  url: https://mistral.ai/
+  description: Foundation model lab
+  sector: AI Models
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: mistral
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Onyx
+  url: https://onyx.security/
+  description: AI security
+  sector: Security
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: onyx
+  in_network: false
+  is_api_provider: false
+- name: Open Evidence
+  url: https://www.openevidence.com/
+  description: AI medical information platform for clinicians
+  sector: Healthcare AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: openevidence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Quadrillion
+  url: https://quadrillion.ai/
+  description: AI startup
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: quadrillion
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: RunSybil
+  url: https://www.runsybil.com/
+  description: AI offensive security
+  sector: Security
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: runsybil
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sierra
+  url: https://sierra.ai/
+  description: Conversational AI agents for customer experience
+  sector: AI Agents
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: sierra
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sola
+  url: https://www.sola-solutions.com/
+  description: AI automation (Conviction launch)
+  sector: AI Automation
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: sola
+  in_network: false
+  is_api_provider: false
+- name: Sunday
+  url: https://www.sunday.ai/
+  description: Robotics
+  sector: Robotics
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  slug: sunday-robotics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Trajectory
+  url: https://www.trajectory.ai/
+  description: AI startup
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: trajectory
+  in_network: false
+  is_api_provider: false
+- name: Watney
+  url: https://watneyrobotics.com/
+  description: Robotics
+  sector: Robotics
+  stage: unknown
+  status: active
+  source: https://www.conviction.com/
+  suggested_slug: watney
+  in_network: false
+  is_api_provider: false

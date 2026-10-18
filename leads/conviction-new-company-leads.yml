@@ -1,0 +1,60 @@
+generated: '2026-10-18'
+method: derived
+source_vc: conviction
+leads:
+- name: Cognition
+  url: https://www.cognition-labs.com/
+  suggested_slug: cognition
+  sector: Developer Tools
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Enigma
+  url: https://www.enigma.inc/
+  suggested_slug: enigma
+  sector: AI
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Instinct
+  url: https://instinct.co/
+  suggested_slug: instinct
+  sector: AI
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Keenable
+  url: https://keenable.ai/
+  suggested_slug: keenable
+  sector: AI
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Onyx
+  url: https://onyx.security/
+  suggested_slug: onyx
+  sector: Security
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Sola
+  url: https://www.sola-solutions.com/
+  suggested_slug: sola
+  sector: AI Automation
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Trajectory
+  url: https://www.trajectory.ai/
+  suggested_slug: trajectory
+  sector: AI
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
+- name: Watney
+  url: https://watneyrobotics.com/
+  suggested_slug: watney
+  sector: Robotics
+  source_vc: conviction
+  source: https://www.conviction.com/
+  stub_created: false
